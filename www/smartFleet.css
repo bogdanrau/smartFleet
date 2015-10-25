@@ -1,0 +1,19 @@
+.smartFleet-notification {
+    color: #FFFFFF;
+    padding: 5px 15px;
+    text-align: center;
+    border-radius: 5px;
+    font-weight: bold;
+}
+
+.smartFleet-red {
+    background-color: red;
+}
+
+.smartFleet-green {
+    background-color: green;
+}
+
+.smartFleet-orange {
+    background-color: orange;
+}
